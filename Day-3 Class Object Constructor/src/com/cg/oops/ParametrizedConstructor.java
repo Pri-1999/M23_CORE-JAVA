@@ -1,4 +1,5 @@
 package com.cg.oops;
+// Program for Default Constructor And Parameterized Constructor
 class Pulser
 {
 	public int speed;
