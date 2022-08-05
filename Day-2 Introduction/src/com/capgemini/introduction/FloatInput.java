@@ -1,4 +1,5 @@
 package com.capgemini.introduction;
+// Program for Float Input
 
 import java.util.Scanner;
 

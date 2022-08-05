@@ -1,5 +1,5 @@
 package com.capgemini.introduction;
-//program for byte datatype
+//program for Byte DataType
 
 public class Byte {
 
