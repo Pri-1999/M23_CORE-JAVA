@@ -1,4 +1,5 @@
 package com.cg.package3;
+// Program for Getter And Setter Methods
 
 public class HDFC {
 	public int amount;

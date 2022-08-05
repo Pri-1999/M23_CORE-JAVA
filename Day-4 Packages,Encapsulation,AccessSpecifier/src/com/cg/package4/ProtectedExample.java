@@ -1,4 +1,5 @@
 package com.cg.package4;
+// Program for Protected Access Specifier
 class Car
 {
 	protected void print()
